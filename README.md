@@ -4,8 +4,8 @@ Ceramic Arts Portfolio
 
 Next Steps -
 
-- Navigation bar
-- Working contact form
+- Working contact form - Formspree?
 - Gallery
 - About me blurb
-- tab image logo
+- brownser tab image logo
+- fix brown logo background removal
